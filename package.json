@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "git": "^0.1.5",
+    "mysql2": "^3.10.2",
     "telegraf": "^4.16.3"
   }
 }
